@@ -1,0 +1,23 @@
+.Header {
+  justify-content: space-between;
+  display: flex;
+  height: 20vh;
+  width: 100%;
+}
+
+.Header-title {
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.Header-title h1 {
+  font-size: 48px;
+}
+
+.Header-title h4 {
+  font-size: 36px;
+}
+
+.Header-navBar {
+  align-self: flex-end;
+}
