@@ -21,3 +21,7 @@
 .Header-navBar {
   align-self: flex-end;
 }
+
+.selected {
+  color: red;
+}

@@ -1,0 +1,17 @@
+.Layout {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Header {
+    flex: 0 1 auto;
+}
+
+.Content {
+    flex: 1 1 auto;
+}
+
+.Footer {
+    flex: 0 1 auto;
+}

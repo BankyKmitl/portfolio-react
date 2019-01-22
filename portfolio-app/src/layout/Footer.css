@@ -1,3 +1,9 @@
 .Footer {
     display: flex;
+    justify-content: space-between;
+}
+
+.Footer-item {
+    display: inline-flex;
+    width: 300px;
 }
