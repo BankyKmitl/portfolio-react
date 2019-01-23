@@ -1,0 +1,26 @@
+.Home {
+    display: flex;
+    flex-direction: row;
+}
+
+.Home-picture {
+    display: flex;
+    align-self: center;
+}
+
+.Home-description {
+    width: 700px;
+    padding: 50px 0 0 100px;
+}
+
+.Home-link-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.Link-button {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%
+}
